@@ -1,0 +1,29 @@
+1. file header
+/* =====================================================================================  
+ * @ProjectName:    ${PROJECT_NAME}
+ * @Package:        ${PACKAGE_NAME}
+ * @ClassName:      ${TYPE_NAME}
+ * @Description:    ${DESC}
+ * @Author:         conan.ckr (chenkeren), keren.chen@dianping.com
+ * @Organization:   dianping
+ * @CreateDate:     ${DATE} ${TIME}
+ * @UpdateUser:     conan.ckr
+ * @UpdateDate:     ${DATE} ${TIME}
+ * @UpdateRemark:   The modified content
+ * @Version:        1.0
+ * <p>Copyright: Copyright (c) ${YEAR}</p>
+ * =====================================================================================
+ */
+
+2. live Template
+abbreviation: *
+*
+ * @desc:        $desc$
+ * @method:      $method$
+ * @author:      conan.ckr
+ * @version:     $version$
+ * @params:      
+     $params$
+ * @return:      $returns$ 
+ * @exception:   $exception$
+ */
